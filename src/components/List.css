@@ -1,0 +1,30 @@
+/* .list {
+    border-radius: 5px;
+    font-size: larger;
+    color: white;
+    list-style-type: none;
+    border: 1px solid #ccc;
+    width: 300px;
+    background-color: teal;
+    text-align: center;
+    padding: 40px;
+    width: 70px;
+    height: 10px;
+} */
+
+.list {
+    color: white;
+    width: 300px;
+    padding-left: 40%; 
+
+}
+
+li {
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: teal;
+    margin: 20px auto;
+    border-radius: 5px;
+    list-style-type: none;
+}

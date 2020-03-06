@@ -1,0 +1,43 @@
+Body {
+  background-image: url('./image/background.jpeg');
+}
+
+.App {
+  text-align: center;
+}
+
+h1{
+  font-size: 3em;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+  color: white;
+}
+
+
+input {
+  font-size: .8rem;
+  text-align: center;
+  padding: 40px;
+  width: 50%;
+  height: 20px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  box-shadow: 2px 2px 2px #999;
+  margin-top: 30px;
+}
+
+
+.AddButton {
+  padding-left: 40%; 
+  margin-top: 8px;
+  color: #fff !important;
+  text-decoration: none;
+  background: #60a3bc;
+  padding: 10px;
+  border-radius: 50px;
+  display: inline-block;
+  border: none;
+  transition: all 0.01s ease 0s;
+}
